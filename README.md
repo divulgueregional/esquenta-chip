@@ -47,3 +47,10 @@ Outro recurso muito importante para aquecer um número novo, é fazer
 algumas ligações ou chamadas de vídeos com alguns de seus contatos
 próximos, isso ajuda na familiarização do número
 ```
+
+BANIU? O QUE FAZER?
+```shell
+O chip precisa estar em um celular e conectado no whatsapp.<br>
+Manda a solicitação pra ativação.<br>
+O chip precisa estar em celular vinculado a um app do whatsapp e esperar o retorno que pode levar até 24 horas.
+```
